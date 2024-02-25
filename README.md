@@ -1,4 +1,13 @@
-## Hi
+## Hi 🌱
+
+### Access: https://shu13579.github.io/My_Portfolio/
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shu13579&theme=onedark&column=4
+)](https://github.com/shu13579/github-profile-trophy)
+
+
 
 <!--
 **shu13579/shu13579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
